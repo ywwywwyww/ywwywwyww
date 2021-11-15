@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ### 大一下
 
+- 很抱歉，这学期没有写代码.
+
 ### 大一上
 
 - 线性代数 https://github.com/ywwywwyww/Linear-Algebra-Notes.
