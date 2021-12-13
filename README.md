@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ### 大一上
 
 - 线性代数 https://github.com/ywwywwyww/Linear-Algebra-Notes.
+- 算法设计及其复杂性分析 gugugu.
 
 ### 大零下
 
